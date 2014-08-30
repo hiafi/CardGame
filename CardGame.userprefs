@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\CardBehaviors\FireballBehavior.cs">
+    <Files>
+      <File FileName="Assets\ProjectileBehavior.cs" Line="34" Column="35" />
+      <File FileName="Assets\Resources\Scripts\CardBehaviors\FireballBehavior.cs" Line="6" Column="32" />
+      <File FileName="Assets\Resources\Scripts\PlayerBehavior.cs" Line="109" Column="46" />
+      <File FileName="Assets\Resources\Scripts\CardBehavior.cs" Line="84" Column="30" />
+      <File FileName="Assets\Resources\Scripts\BattleControl.cs" Line="12" Column="4" />
+      <File FileName="Assets\Resources\Scripts\Status.cs" Line="28" Column="16" />
+      <File FileName="Assets\Resources\Scripts\EventManager.cs" Line="16" Column="49" />
+      <File FileName="Assets\ProjectileBehavior.cs" Line="38" Column="1" />
+      <File FileName="Assets\Resources\Scripts\CardBehaviors\AbstractCard.cs" Line="26" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
